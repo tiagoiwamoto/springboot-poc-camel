@@ -1,4 +1,4 @@
-package com.example.simplerest;
+package com.example.poccamel;
 
 import java.time.LocalDateTime;
 
